@@ -1,8 +1,8 @@
 def introduction (name, language)
- puts "Hi! My name is #{name}. I heard you are a great #{"
+ puts "Hi! My name is #{name}. I heard you are a great #{language} programmer!"
 end
 
-introduction (Dan)
+introduction(Matt, Ruby)
 
 
 
