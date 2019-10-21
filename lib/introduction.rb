@@ -1,6 +1,5 @@
-def
-  introduction (name)
-  '"Hi! My name is #{name}.'
+def introduction (name)
+ puts '"Hi! My name is #{name}.'
 end
 
 introduction (Dan)
