@@ -2,7 +2,7 @@ def introduction (name, language)
  puts "Hi! My name is #{name}. I heard you are a great #{language} programmer!"
 end
 
-introduction("Matt, Ruby")
+introduction("Matt", "Ruby")
 
 
 
